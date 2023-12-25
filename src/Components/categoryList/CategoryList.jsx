@@ -2,7 +2,7 @@ import React from 'react'
 
 const CategoryList = () => {
   return (
-    <div>CategoryList</div>
+    <div>My new next app.</div>
   )
 }
 
