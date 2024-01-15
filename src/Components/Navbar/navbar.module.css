@@ -3,10 +3,11 @@
   align-items: center;
   justify-content: space-between;
   height: 100px;
+  /* width: 100px; */
   position: sticky;
   left: 0px;
   top: 0px;
-  background: #FFFFFF;
+  background: var(--navbg);
 }
 
 .social {

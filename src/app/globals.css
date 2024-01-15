@@ -3,6 +3,7 @@
     --textColor:black;
     --softBg:#f9f9f9;
     --softTextColor:#626263;
+    --navbg: #fff;
 }
 
 *{
@@ -26,6 +27,7 @@ a{
     --textColor: #ddd;
     --softBg: #1f273a;
     --softTextColor: #a6a6a6;
+    --navbg: #0f172a;
   }
   
   .light {
@@ -33,6 +35,7 @@ a{
     --textColor: black;
     --softBg: #f0f0f0;
     --softTextColor: #626262;
+    --navbg: #fff;
   }
   
 
@@ -43,7 +46,7 @@ a{
 }
 
 .wrapper{
-    max-width: 1400px;
+    /* max-width: 1400px; */
     margin-left: auto;
     margin-right: auto;
     padding-left: 80px;
