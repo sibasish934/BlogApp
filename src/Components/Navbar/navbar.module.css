@@ -4,9 +4,9 @@
   justify-content: space-between;
   height: 100px;
   /* width: 100px; */
-  position: sticky;
-  left: 0px;
-  top: 0px;
+  /* position: sticky; */
+  /* left: 0px;
+  top: 0px; */
   background: var(--navbg);
 }
 
